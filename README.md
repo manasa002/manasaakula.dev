@@ -23,3 +23,7 @@ Currently working as a Software Engineer (Frontend Developer) at <b>Sokrati Tech
   <li class="dot">💼 LinkedIn: <a href="https://www.linkedin.com/in/manasa002/">linkedin.com/in/manasa002</a></li>
   <li class="dot">✍️ Medium: <a href="https://manasa002.medium.com/">manasa002.medium.com</a></li>
 </ul>
+<h2>🤝 Let's Connect</h2>
+<p>
+If you’ve got something fun or exciting to build, I’d love to be a part of it — let’s connect ✨
+</p>
