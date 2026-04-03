@@ -2,6 +2,12 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNmNjY2ZWQxYzI5MzdkM2I4MDk2Yjg4YmQ0ZTRjOTRjOTE2MTUzMCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 <p>I'm a Frontend Developer with 2.5+ years of experience building responsive, high-performance web applications using JavaScript, React, and AEM-backed platforms. I focus on delivering clean, modern, and user-centered interfaces that follow strong engineering standards and scalable architecture.</p>
 <h2>Career Snapshot</h2>
+<p>
+Started as an Intern at <b>Ernst & Young (EY)</b>, later worked as an Associate Consultant, building mobile apps with <b>React Native</b> and cross-platform applications using <b>Flutter</b>.
+</p>
+<p>
+Currently working as a Software Engineer (Frontend Developer) at <b>Sokrati Technologies Pvt Ltd</b>, contributing to scalable applications using <b>React and TypeScript</b>.
+</p>
 <h2>Technical Expertise</h2>
 <ul>
   <li><b>Languages:</b> C, Python, JavaScript (ES6+), TypeScript</li>
